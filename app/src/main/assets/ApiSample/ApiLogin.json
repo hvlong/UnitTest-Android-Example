@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "status": "successfully",
+    "code": 200
+  },
+  "data": {
+    "user": {
+      "id": 1000,
+      "name": "name",
+      "full_name": "full name"
+    }
+  }
+}

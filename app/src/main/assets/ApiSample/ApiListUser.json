@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "status": "successfully",
+    "code": 200
+  },
+  "data":[
+    {
+      "user": {
+        "id": 101,
+        "email": "test1@gmail.com",
+        "access_token": "test_token"
+      }
+    },
+    {
+      "user": {
+        "id": 102,
+        "email": "test2@gmail.com",
+        "access_token": "test_token"
+      }
+    },
+    {
+      "user": {
+        "id": 103,
+        "email": "test3@gmail.com",
+        "access_token": "test_token"
+      }
+    }
+  ]
+}
